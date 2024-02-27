@@ -46,7 +46,7 @@ track and manage member participation. Your solution should also allow the club 
 You may change the parameters of what qualifies for a “punch” and the distribution of activity types within the punch-card system, if your solution deems fit for a change to the structure.
 If your solution implements a database, there must be sufficient security measures in place to protect the personal information of the students and faculty members.
 You are free to design and implement your solution in any way you see fit, but you should consider the requirements of the solution below as you design and implement your solution. You should also consider the cost of your solution, and be prepared to explain the technology stack you used and the cost of the technology in your submission.
-Requirements of the Solution:
+## Requirements of the Solution:
 1. The solution must be a web or mobile application. If you choose a web application, it must be optimized for responsiveness to use on a mobile device.
 2. Studentsmustbeabletoeasilytracktheirparticipationandviewpast events and activities they've attended.
 3. Only active members of AIS should be able to track their participation, but there should be an option to add a plus one so the club can keep an accurate count of event attendance.
