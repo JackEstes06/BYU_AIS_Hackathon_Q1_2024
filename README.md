@@ -39,12 +39,15 @@ Under the old format, the punch cards had ten stampable activities, under these 
   - Service events (e.g., volunteering at events and club booths, etc.)
   
 To qualify for the drawing, a student must have at least ten stamps, with at least one from each category. The more stamps a student had, the higher number of entries and higher dollar value of the prize they were eligible to win at the closing social of the year.
-While this system has worked well in the past, it has become increasingly difficult to manage and track. The cards are often lost or forgotten, and there are additional logistical challenges in tracking and managing the cards. As the club has grown, we've felt the need to move to a digital format to track member participation and engagement. 
-Your task is to design and implement a digital solution to replace the physical punch card. Your solution should allow students to easily track their participation in AIS events and activities, and should allow the club to easily
 
-track and manage member participation. Your solution should also allow the club to easily verify that a student has met the requirements for the drawing at the end of the semester.
+While this system has worked well in the past, it has become increasingly difficult to manage and track. The cards are often lost or forgotten, and there are additional logistical challenges in tracking and managing the cards. As the club has grown, we've felt the need to move to a digital format to track member participation and engagement. 
+
+Your task is to design and implement a digital solution to replace the physical punch card. Your solution should allow students to easily track their participation in AIS events and activities, and should allow the club to easily track and manage member participation. Your solution should also allow the club to easily verify that a student has met the requirements for the drawing at the end of the semester.
+
 You may change the parameters of what qualifies for a “punch” and the distribution of activity types within the punch-card system, if your solution deems fit for a change to the structure.
+
 If your solution implements a database, there must be sufficient security measures in place to protect the personal information of the students and faculty members.
+
 You are free to design and implement your solution in any way you see fit, but you should consider the requirements of the solution below as you design and implement your solution. You should also consider the cost of your solution, and be prepared to explain the technology stack you used and the cost of the technology in your submission.
 ## Requirements of the Solution:
 1. The solution must be a web or mobile application. If you choose a web application, it must be optimized for responsiveness to use on a mobile device.
