@@ -6,36 +6,36 @@ A punchcard tracking system for BYU AIS activities (hopefully)
 ### Introduction:
 We are excited to announce the Winter 2024 Hack-a-thon! This event is designed to give students the opportunity to apply their knowledge and skills to a real-world problem. The competition is open to any active member of BYU's chapter of AIS, regardless of major or experience. We hope you have fun, learn new skills, and take advantage of this opportunity to showcase your talents and grow your personal portfolio! The winner's solution of this event will act as the baseline product for a service that AIS will use indefinitely.
 Rules:
-● Limit 6 people per team; individual participation is also welcome.
-● You may work on the case from Friday, Feb 23 through Friday, Mar 1.
+- Limit 6 people per team; individual participation is also welcome.
+- You may work on the case from Friday, Feb 23 through Friday, Mar 1.
 You must submit your solution by 11:59 PM on the closing Friday.
-● You may use any resources you have available to you, including the
+- You may use any resources you have available to you, including the
 internet, textbooks, and other people.
-● Your submission must be a working web or mobile application,
+- Your submission must be a working web or mobile application,
 applicable to the case.
-● A one-page write up and cost analysis must be included with your
+- A one-page write up and cost analysis must be included with your
 submission, explaining the technology stack you used, the cost of the
 technology, and the reasoning behind your choices.
-● Your one-page write up must also include a breakdown of the event
+- Your one-page write up must also include a breakdown of the event
 categories that you decide with sufficient reasoning as to their purpose and tracking methods (to be explained in the case).
 The Case:
 BYU's chapter of the Association for Information Systems (AIS) is a beloved and ongoing tradition for many years. The actual club of BYU AIS is a registered chapter of the official Association for Information Systems organization (visit aisnet), with specific organization structures and formalities in place. The BYU AIS chapter holds many events and activities throughout each semester to engage students and involve them in friendship-building activities, recruiting efforts, and professional development.
 
 In past years, members of BYU AIS have been able to keep track of events and activities through a physical card that was stamped at each event. This card was about the size of a business card, to conveniently fit in a wallet, and was intended to be a fun way to encourage members to attend events. This card was turned in at the end of the semester for a chance to win prizes via a drawing or extra credit at professors’ discretion.
 Under the old format, the punch cards had ten stampable activities, under these categories:
-● Discover (4 stamps)
-○ Recruiting events (Info sessions)
-○ Company/sponsors forums and meet-ups (AIS Sponsor Night)
-● Connect (3 stamps)
-○ Professor meetings and activities (e.g. Cookies and Milk, Pies
-with Professors) ● Socialize (2 stamps)
-○ Monthly events (Opening Social, Pies with Professors, Gala, etc)
-● Learn (2 stamps)
-○ T.O.A. Technite (formerly known as Tech Talk)
-○ IS Academy
-● Serve (4 stamps)
-○ A-Team
-○ Service events (e.g., volunteering at events and club booths, etc.)
+- Discover (4 stamps)
+- - Recruiting events (Info sessions)
+- - Company/sponsors forums and meet-ups (AIS Sponsor Night)
+- Connect (3 stamps)
+- - Professor meetings and activities (e.g. Cookies and Milk, Pies
+with Professors) - Socialize (2 stamps)
+- - Monthly events (Opening Social, Pies with Professors, Gala, etc)
+- Learn (2 stamps)
+- - T.O.A. Technite (formerly known as Tech Talk)
+- - IS Academy
+- Serve (4 stamps)
+- - A-Team
+- - Service events (e.g., volunteering at events and club booths, etc.)
 To qualify for the drawing, a student must have at least ten stamps, with at least one from each category. The more stamps a student had, the higher number of entries and higher dollar value of the prize they were eligible to win at the closing social of the year.
 While this system has worked well in the past, it has become increasingly difficult to manage and track. The cards are often lost or forgotten, and there are additional logistical challenges in tracking and managing the cards. As the club has grown, we've felt the need to move to a digital format to track member participation and engagement.
 Your task is to design and implement a digital solution to replace the physical punch card. Your solution should allow students to easily track their participation in AIS events and activities, and should allow the club to easily
