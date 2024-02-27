@@ -24,20 +24,22 @@ BYU's chapter of the Association for Information Systems (AIS) is a beloved and 
 In past years, members of BYU AIS have been able to keep track of events and activities through a physical card that was stamped at each event. This card was about the size of a business card, to conveniently fit in a wallet, and was intended to be a fun way to encourage members to attend events. This card was turned in at the end of the semester for a chance to win prizes via a drawing or extra credit at professors’ discretion.
 Under the old format, the punch cards had ten stampable activities, under these categories:
 - Discover (4 stamps)
-- - Recruiting events (Info sessions)
-- - Company/sponsors forums and meet-ups (AIS Sponsor Night)
-- Connect (3 stamps)
-- - Professor meetings and activities (e.g. Cookies and Milk, Pies
-with Professors) - Socialize (2 stamps)
-- - Monthly events (Opening Social, Pies with Professors, Gala, etc)
+  - Recruiting events (Info sessions)
+  - Company/sponsors forums and meet-ups (AIS Sponsor Night)
+  - Connect (3 stamps)
+  - Professor meetings and activities (e.g. Cookies and Milk, Pies
+  with Professors) 
+- Socialize (2 stamps)
+  - Monthly events (Opening Social, Pies with Professors, Gala, etc)
 - Learn (2 stamps)
-- - T.O.A. Technite (formerly known as Tech Talk)
-- - IS Academy
+  - T.O.A. Technite (formerly known as Tech Talk)
+  - IS Academy
 - Serve (4 stamps)
-- - A-Team
-- - Service events (e.g., volunteering at events and club booths, etc.)
+  - A-Team
+  - Service events (e.g., volunteering at events and club booths, etc.)
+  
 To qualify for the drawing, a student must have at least ten stamps, with at least one from each category. The more stamps a student had, the higher number of entries and higher dollar value of the prize they were eligible to win at the closing social of the year.
-While this system has worked well in the past, it has become increasingly difficult to manage and track. The cards are often lost or forgotten, and there are additional logistical challenges in tracking and managing the cards. As the club has grown, we've felt the need to move to a digital format to track member participation and engagement.
+While this system has worked well in the past, it has become increasingly difficult to manage and track. The cards are often lost or forgotten, and there are additional logistical challenges in tracking and managing the cards. As the club has grown, we've felt the need to move to a digital format to track member participation and engagement. 
 Your task is to design and implement a digital solution to replace the physical punch card. Your solution should allow students to easily track their participation in AIS events and activities, and should allow the club to easily
 
 track and manage member participation. Your solution should also allow the club to easily verify that a student has met the requirements for the drawing at the end of the semester.
