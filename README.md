@@ -51,12 +51,12 @@ If your solution implements a database, there must be sufficient security measur
 You are free to design and implement your solution in any way you see fit, but you should consider the requirements of the solution below as you design and implement your solution. You should also consider the cost of your solution, and be prepared to explain the technology stack you used and the cost of the technology in your submission.
 ## Requirements of the Solution:
 1. The solution must be a web or mobile application. If you choose a web application, it must be optimized for responsiveness to use on a mobile device.
-2. Studentsmustbeabletoeasilytracktheirparticipationandviewpast events and activities they've attended.
+2. Students must be able to easily track their participation and viewpast events and activities they've attended.
 3. Only active members of AIS should be able to track their participation, but there should be an option to add a plus one so the club can keep an accurate count of event attendance.
 4. Only verified AIS officers or club advisors should be able to "check-in" students at activities, registering their participation.
 5. The club organization should be able to easily view and manage member participation and engagement.
-6. Aggregatedatashouldbeavailabletoclubofficerstotrackmember participation and engagement.
+6. Aggregate data should be available to club officers to track member participation and engagement.
 7. The club should be able to easily verify that a student has met the requirements for the drawing at the end of the semester.
-8. Thesolutionshouldbecost-effectiveandeasytomaintain.
+8. The solution should be cost-effective and easy to maintain.
    Thank you for your participation and good luck with the case!
 
