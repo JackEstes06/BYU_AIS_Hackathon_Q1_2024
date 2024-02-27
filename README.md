@@ -26,7 +26,7 @@ Under the old format, the punch cards had ten stampable activities, under these 
 - Discover (4 stamps)
   - Recruiting events (Info sessions)
   - Company/sponsors forums and meet-ups (AIS Sponsor Night)
-  - Connect (3 stamps)
+- Connect (3 stamps)
   - Professor meetings and activities (e.g. Cookies and Milk, Pies
   with Professors) 
 - Socialize (2 stamps)
