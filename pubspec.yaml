@@ -40,6 +40,10 @@ dependencies:
   sqflite_common_ffi: ^2.3.2+1
   sqlite3_flutter_libs: ^0.5.20
   sqflite_common_ffi_web: ^0.4.2+3
+  firebase_core: ^2.24.2
+  firebase_analytics: ^10.8.7
+  firebase_auth: ^4.17.6
+  firebase_database: ^10.4.7
 
 dev_dependencies:
   flutter_test:
