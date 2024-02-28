@@ -1,4 +1,5 @@
 // User class database model
+
 class User {
   int userID;
   String username;
@@ -17,6 +18,28 @@ class User {
     required this.email,
     required this.isAdmin,
   });
+
+  // Get a User from json
+  factory User.fromJson(Map<String, dynamic> json) => User(
+        userID: json['userID'],
+        username: json['username'],
+        password: json['password'],
+        fName: json['fName'],
+        lName: json['lName'],
+        email: json['email'],
+        isAdmin: json['isAdmin'],
+      );
+
+  // Create json from a User
+  Map<String, dynamic> toJson() => {
+        'userID': userID,
+        'username': username,
+        'password': password,
+        'fName': fName,
+        'lName': lName,
+        'email': email,
+        'isAdmin': isAdmin,
+      };
 
   // Convert a User into a Map. The keys must correspond
   // to the names of the columns in the database.
